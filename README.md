@@ -1,4 +1,4 @@
-# Starter template for Vite + Vue 3 + Typescript + Quasar
+# Starter template with Vite + Vue 3 + Typescript + Quasar
 
 Tired of always starting from scratch? Lucky you!!! Use this repo to get quickly on tracks.
 
